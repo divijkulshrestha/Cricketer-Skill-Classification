@@ -4,7 +4,7 @@
 
 **Jack of All Trades, Master of One?**
 
-This is an SVM Classifier that takes a cricketer's statistics, such as batting average and bowling economy, and classify whether the cricketer is a better batsman or bowler. In other words, we will be able to tell which is a cricketer's primary skill - batting or bowling?
+This is an SVM Classifier that takes a cricketer's statistics, such as batting average and bowling economy, and classifies whether the cricketer is a better batsman or bowler. In other words, we will be able to tell which is a cricketer's primary skill - batting or bowling?
 
 We can use it to determine at which skill are those rarebred all-rounders better at!
 
