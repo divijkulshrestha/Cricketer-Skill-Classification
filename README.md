@@ -9,3 +9,5 @@ This is an SVM Classifier that takes a cricketer's statistics, such as batting a
 We can use it to determine at which skill are those rarebred all-rounders better at!
 
 SVMs work well with small datasets and high dimensions, so they will be perfect for our cause. Credit to [Alice Zhao](https://github.com/adashofdata) for providing the inspiration needed for this mini-project.
+
+This is my submission for the project component of CSE3013 as offered at VIT Vellore
